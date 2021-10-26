@@ -1,0 +1,7 @@
+{
+  "name": "distroless",
+  "description": "A quick app to demonstrate use of distroless",
+  "repository": "https://github.com/MLH/mlh-hackathon-nodejs-starter.git",
+  "logo": "https://www.peaks.fr/wp-content/uploads/2020/09/logo-peaks.svg",
+  "keywords": ["nodejs", "javascript"]
+}
